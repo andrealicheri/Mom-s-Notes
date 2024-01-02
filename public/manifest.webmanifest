@@ -1,0 +1,35 @@
+{
+  "name": "SwipeNotes",
+  "short_name": "SwipeNotes",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#e4f8f8",
+  "background_color": "#e4f8f8",
+  "description": "Swipe through your notes!",
+  "icons": [
+    {
+      "src": "/public/pwa/manifest-icon-192.maskable.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa/manifest-icon-192.maskable.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/pwa/manifest-icon-512.maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa/manifest-icon-512.maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
